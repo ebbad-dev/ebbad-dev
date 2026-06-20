@@ -33,52 +33,79 @@ I am **Ebbad Ur Rehman**, a Software Engineering student at **COMSATS University
 
 My strongest projects are not just screens. They are complete workflows: dashboards, monitoring systems, reasoning tools, database-backed platforms, computer vision apps, automation utilities, and distributed applications.
 
-```yaml
-name: Ebbad Ur Rehman
-location: Lahore, Pakistan
-role: Software Engineering Student
-focus: Full-stack products, AI systems, databases, backend APIs
-portfolio: "https://ebbad-portfolio.vercel.app"
-linkedin: "https://www.linkedin.com/in/ebbad-ur-rehman"
-email: "ebbadurrehman538@gmail.com"
-```
+## Profile Snapshot
+
+<table>
+<tr>
+<td width="33%">
+
+**Location**  
+Lahore, Pakistan
+
+</td>
+<td width="33%">
+
+**Current Role**  
+Software Engineering Student
+
+</td>
+<td width="33%">
+
+**Main Focus**  
+Full-Stack + AI Systems
+
+</td>
+</tr>
+<tr>
+<td width="33%">
+
+**University**  
+COMSATS Lahore
+
+</td>
+<td width="33%">
+
+**Core Stack**  
+Next.js, TypeScript, Python, FastAPI, SQL
+
+</td>
+<td width="33%">
+
+**Open To**  
+Internships, junior roles, freelance builds
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Recruiter Snapshot
+## What I Bring
 
 <table>
 <tr>
 <td width="25%" align="center">
 
-### Education
-BS Software Engineering  
-COMSATS Lahore  
-Expected 2028
+### Product Thinking
+I care about workflows, not only screens. I build tools that solve concrete user problems.
 
 </td>
 <td width="25%" align="center">
 
-### Core Stack
-Next.js, React  
-TypeScript, Python  
-FastAPI, SQL
+### Engineering Breadth
+Frontend, backend, databases, AI workflows, and system-level fundamentals.
 
 </td>
 <td width="25%" align="center">
 
-### Project Depth
-AI platforms  
-DBMS systems  
-Computer vision
+### Builder Mindset
+I turn coursework and ideas into portfolio-ready products with clear demos and documentation.
 
 </td>
 <td width="25%" align="center">
 
-### Open To
-Internships  
-Junior roles  
-Freelance builds
+### Growth Direction
+Internships, junior roles, freelance builds, open-source learning, and team collaboration.
 
 </td>
 </tr>
